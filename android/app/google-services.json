@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474287163697",
+    "project_id": "fan-page-a92a7",
+    "storage_bucket": "fan-page-a92a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474287163697:android:68a38902a0b601c3608810",
+        "android_client_info": {
+          "package_name": "com.nailindustries.fanpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474287163697-41vhsu6becqqcd6f6m7mk0v6a5jl5257.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFLLmEJdssVO7N73Z3-u53q8W7IQN2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474287163697-41vhsu6becqqcd6f6m7mk0v6a5jl5257.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474287163697-o5u2rjnpao5ttknneu33ogvjimn41j9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nailindustries.fanpage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
